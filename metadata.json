@@ -1,0 +1,6 @@
+{
+  "name": "PrüfungsPortal - German Exam Platform",
+  "description": "Secure German language examination portal with dual admin and student environments, real-time analytics, automated grading, and scalable session management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
